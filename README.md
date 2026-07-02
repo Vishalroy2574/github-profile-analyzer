@@ -69,7 +69,7 @@ github-profile-analyzer/
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Vishalroy2574/github-profile-analyzer.git
 cd github-profile-analyzer
 npm install
 ```
