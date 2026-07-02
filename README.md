@@ -4,6 +4,11 @@ A backend service that gathers GitHub profile data, analyzes repository metrics,
 
 This project uses **Node.js**, **Express**, and **MySQL** with a clean separation between routes, business logic, and database code.
 
+## Live demo
+
+- Home: https://github-profile-analyzer-1-klfu.onrender.com/
+- Health: https://github-profile-analyzer-1-klfu.onrender.com/health
+
 ---
 
 ## What it does
